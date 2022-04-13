@@ -1,5 +1,6 @@
 public class Doctor {
-    // Atributos
+    // Atributos... esto siempre va, no es como en python
+    // Son variables globales para los métodos
     int id;
     String name;
     String speciality;
